@@ -1,0 +1,2 @@
+# Predictive-Model-for-Customer-Churn-in-Telecommunications
+Project Overview This project develops a predictive model for a telecommunications company to identify customers at high risk of churning. By predicting when customers are likely to leave for a competitor, the company can take proactive measures to retain them. We utilize the Logistic Regression algorithm to analyze customer data and predict churn.
